@@ -4,3 +4,5 @@ Postgraduate final semester Industry Experience Project with the topic "Fosterin
 - Analysis of demography and past events sentiments to derive actionable insights for event organizers in their event planning process
 - Visualised 31 Greater Melbourne’s Local Government Area demographic information into interactive dashboards using Microsoft Power BI
 - Worked under the guidance of 2 Monash Studio Mentors and 3 ANZ Industry Mentors
+
+visit https://commhp.tk for final product
